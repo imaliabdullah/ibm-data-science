@@ -1,2 +1,2 @@
-# ibm-data-science
+# IBM Data Science
  IBM Data Science Professional Certificate
